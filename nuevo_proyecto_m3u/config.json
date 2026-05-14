@@ -1,0 +1,57 @@
+{
+  "paths": {
+    "channels_file": "../channel.txt",
+    "static_list_file": "../static_list.m3u",
+    "cookies_file": "../cookies.txt",
+    "cache_file": "./links_cache.json",
+    "output_file": "./combined_list.m3u"
+  },
+  "network": {
+    "request_timeout_seconds": 12,
+    "youtube_request_timeout_seconds": 15,
+    "verify_tls": false,
+    "max_retries": 3,
+    "youtube_max_retries": 2,
+    "user_agents": [
+      "Dalvik/2.1.0 (Linux; U; Android 11; Pixel 5) VLC/3.3.4",
+      "Dalvik/2.1.0 (Linux; U; Android 12; SM-S901B) VLC/3.4.2",
+      "Dalvik/2.1.0 (Linux; U; Android 10; Mi A3) VLC/3.2.12",
+      "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Pro) VLC/3.5.0"
+    ]
+  },
+  "youtube": {
+    "cache_ttl_seconds": 1800,
+    "playlist_items": "1-20"
+  },
+  "error_urls": {
+    "base_error_url": "http://181.209.79.77:8097/error"
+  },
+  "playlist": {
+    "epg_url": "https://github.com/botallen/epg/releases/download/latest/epg.xml",
+    "group_order": [
+      "Nacionales",
+      "Locales",
+      "Noticias",
+      "Variedades Nacionales",
+      "Infantiles",
+      "Deportes",
+      "Noticias Internacionales",
+      "Novelas",
+      "Peliculas",
+      "Variedades Internacionales",
+      "Documentales",
+      "Musica",
+      "Religiosos",
+      "Nacionales Interior",
+      "Internacionales",
+      "Radio"
+    ]
+  },
+  "deploy": {
+    "enabled": false,
+    "destination_file": "/listas/combined_list.m3u"
+  },
+  "logging": {
+    "level": "INFO"
+  }
+}

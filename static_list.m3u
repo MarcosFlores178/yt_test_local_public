@@ -1,96 +1,121 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Canal 13 La Rioja"tvg-name="Canal 13 La Rioja"tvg-logo="http://181.209.79.77/13rioja.png"group-title="Locales",Canal 13 La Rioja
+#EXTINF:-1 tvg-id="Canal 13 La Rioja"tvg-name="Canal 13 La Rioja"tvg-logo="http://181.209.79.77:9999
+/13rioja.png"group-title="Locales",Canal 13 La Rioja
 http://arcast.net:1935/mp/mp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Fenix"tvg-name="Fenix"tvg-logo="http://181.209.79.77/fenix.png"group-title="Locales",Fenix
+#EXTINF:-1 tvg-id="Fenix"tvg-name="Fenix"tvg-logo="http://181.209.79.77:9999
+/fenix.png"group-title="Locales",Fenix
 https://stmvideo3.livecastv.com/fenixrioja/fenixrioja/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TeveOcho"tvg-name="TeveOcho"tvg-logo="http://181.209.79.77/tv8.png"group-title="Locales",TeveOcho
+#EXTINF:-1 tvg-id="TeveOcho"tvg-name="TeveOcho"tvg-logo="http://181.209.79.77:9999
+/tv8.png"group-title="Locales",TeveOcho
 https://srvchp.witel.ar:1936/live/teveocho/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Argentinisima"tvg-name="Argentinisima"tvg-logo="http://181.209.79.77/argentinisima.png"group-title="Variedades Nacionales",Argentinisima
+#EXTINF:-1 tvg-id="Argentinisima"tvg-name="Argentinisima"tvg-logo="http://181.209.79.77:9999
+/argentinisima.png"group-title="Variedades Nacionales",Argentinisima
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
-#EXTINF:-1 tvg-id="Garage TV"tvg-name="Garage TV"tvg-logo="http://181.209.79.77/elgaragetv.png"group-title="Variedades Nacionales",Garage TV
+#EXTINF:-1 tvg-id="Garage TV"tvg-name="Garage TV"tvg-logo="http://181.209.79.77:9999
+/elgaragetv.png"group-title="Variedades Nacionales",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-#EXTINF:-1 tvg-id="Telemax"tvg-name="Telemax"tvg-logo="http://181.209.79.77/telemax.png"group-title="Variedades Nacionales",Telemax
+#EXTINF:-1 tvg-id="Telemax"tvg-name="Telemax"tvg-logo="http://181.209.79.77:9999
+/telemax.png"group-title="Variedades Nacionales",Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
-#EXTINF:-1 tvg-id="RT"tvg-name="RT"tvg-logo="http://181.209.79.77/rt.png"group-title="Noticias Internacionales",RT
+#EXTINF:-1 tvg-id="RT"tvg-name="RT"tvg-logo="http://181.209.79.77:9999
+/rt.png"group-title="Noticias Internacionales",RT
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal E"tvg-name="Canal E"tvg-logo="http://181.209.79.77/canale.png"group-title="Noticias Internacionales",Canal E
+#EXTINF:-1 tvg-id="Canal E"tvg-name="Canal E"tvg-logo="http://181.209.79.77:9999
+/canale.png"group-title="Noticias Internacionales",Canal E
 https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AMC"tvg-name="AMC"tvg-logo="http://181.209.79.77/amc.png"group-title="Peliculas",AMC
+#EXTINF:-1 tvg-id="AMC"tvg-name="AMC"tvg-logo="http://181.209.79.77:9999
+/amc.png"group-title="Peliculas",AMC
 https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Estrella Games"tvg-name="Estrella Games"tvg-logo="http://181.209.79.77/estrella_games.png"group-title="Variedades Internacionales",Estrella Games
+#EXTINF:-1 tvg-id="Estrella Games"tvg-name="Estrella Games"tvg-logo="http://181.209.79.77:9999
+/estrella_games.png"group-title="Variedades Internacionales",Estrella Games
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Estrella News"tvg-name="Estrella News"tvg-logo="http://181.209.79.77/estrella_news.png"group-title="Variedades Internacionales",Estrella News
+#EXTINF:-1 tvg-id="Estrella News"tvg-name="Estrella News"tvg-logo="http://181.209.79.77:9999
+/estrella_news.png"group-title="Variedades Internacionales",Estrella News
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-estrellamedia/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Music Top"tvg-name="Music Top"tvg-logo="http://181.209.79.77/musictop.png"group-title="Musica",Music Top
+#EXTINF:-1 tvg-id="Music Top"tvg-name="Music Top"tvg-logo="http://181.209.79.77:9999
+/musictop.png"group-title="Musica",Music Top
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 
-#EXTINF:-1 tvg-id="Tierra Mia TV"tvg-name="Tierra Mia TV"tvg-logo="http://181.209.79.77/tierramia.png"group-title="Musica",Tierra Mia TV
+#EXTINF:-1 tvg-id="Tierra Mia TV"tvg-name="Tierra Mia TV"tvg-logo="http://181.209.79.77:9999
+/tierramia.png"group-title="Musica",Tierra Mia TV
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 
-#EXTINF:-1 tvg-id="Teleritmo"tvg-name="Teleritmo"tvg-logo="http://181.209.79.77/teleritmo-mx.png"group-title="Musica",Teleritmo
+#EXTINF:-1 tvg-id="Teleritmo"tvg-name="Teleritmo"tvg-logo="http://181.209.79.77:9999
+/teleritmo-mx.png"group-title="Musica",Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-1 tvg-id="NetTV"tvg-name="NetTV"tvg-logo="http://181.209.79.77/nettv.png"group-title="Musica",NetTV
+#EXTINF:-1 tvg-id="NetTV"tvg-name="NetTV"tvg-logo="http://181.209.79.77:9999
+/nettv.png"group-title="Musica",NetTV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN Premium HD"tvg-name="ESPN Premium HD"tvg-logo="http://181.209.79.77/espnpremium.png"group-title="Deportes",ESPN Premium HD
+#EXTINF:-1 tvg-id="ESPN Premium HD"tvg-name="ESPN Premium HD"tvg-logo="http://181.209.79.77:9999
+/espnpremium.png"group-title="Deportes",ESPN Premium HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://190.95.60.228:8500/play/a09v
 
-#EXTINF:-1 tvg-id="ESPN HD"tvg-name="ESPN HD"tvg-logo="http://181.209.79.77/espn.png"group-title="Deportes",ESPN HD
+#EXTINF:-1 tvg-id="ESPN HD"tvg-name="ESPN HD"tvg-logo="http://181.209.79.77:9999
+/espn.png"group-title="Deportes",ESPN HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://190.95.60.228:8500/play/a013
 
-#EXTINF:-1 tvg-id="ESPN 2"tvg-name="ESPN 2"tvg-logo="http://181.209.79.77/espn2.png"group-title="Deportes",ESPN 2
+#EXTINF:-1 tvg-id="ESPN 2"tvg-name="ESPN 2"tvg-logo="http://181.209.79.77:9999
+/espn2.png"group-title="Deportes",ESPN 2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://190.95.60.228:8500/play/a012
 
-#EXTINF:-1 tvg-id="ESPN 3"tvg-name="ESPN 3"tvg-logo="http://181.209.79.77/espn3.png"group-title="Deportes",ESPN 3
+#EXTINF:-1 tvg-id="ESPN 3"tvg-name="ESPN 3"tvg-logo="http://181.209.79.77:9999
+/espn3.png"group-title="Deportes",ESPN 3
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://190.95.60.228:8500/play/a014
 
-#EXTINF:-1 tvg-id="ESPN 4"tvg-name="ESPN 4"tvg-logo="http://181.209.79.77/espn4.png"group-title="Deportes",ESPN 4
+#EXTINF:-1 tvg-id="ESPN 4"tvg-name="ESPN 4"tvg-logo="http://181.209.79.77:9999
+/espn4.png"group-title="Deportes",ESPN 4
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://190.95.60.228:8500/play/a03w
 
-#EXTINF:-1 tvg-id="Fox Sports"tvg-name="Fox Sports"tvg-logo="http://181.209.79.77/foxsports.png"group-title="Deportes",Fox Sports
+#EXTINF:-1 tvg-id="Fox Sports"tvg-name="Fox Sports"tvg-logo="http://181.209.79.77:9999
+/foxsports.png"group-title="Deportes",Fox Sports
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://190.95.60.228:8500/play/a03x
 
-#EXTINF:-1 tvg-id="Fox Sports 2"tvg-name="Fox Sports 2"tvg-logo="http://181.209.79.77/foxsports2.png"group-title="Deportes",Fox Sports 2
+#EXTINF:-1 tvg-id="Fox Sports 2"tvg-name="Fox Sports 2"tvg-logo="http://181.209.79.77:9999
+/foxsports2.png"group-title="Deportes",Fox Sports 2
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://190.95.60.228:8500/play/a015
 
-#EXTINF:-1 tvg-id="Fox Sports 3"tvg-name="Fox Sports 3"tvg-logo="http://181.209.79.77/foxsports3.png"group-title="Deportes",Fox Sports 3
+#EXTINF:-1 tvg-id="Fox Sports 3"tvg-name="Fox Sports 3"tvg-logo="http://181.209.79.77:9999
+/foxsports3.png"group-title="Deportes",Fox Sports 3
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://190.95.60.228:8500/play/a02n
 
-#EXTINF:-1 tvg-id="TNT Sports"tvg-name="TNT Sports"tvg-logo="http://181.209.79.77/tnt.png"group-title="Deportes",TNT Sports
+#EXTINF:-1 tvg-id="TNT Sports"tvg-name="TNT Sports"tvg-logo="http://181.209.79.77:9999
+/tnt.png"group-title="Deportes",TNT Sports
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://190.95.60.228:8500/play/a08j
 
-#EXTINF:-1 tvg-id="TyC Sports"tvg-name="TyC Sports"tvg-logo="http://181.209.79.77/tyc.png"group-title="Deportes",TyC Sports
+#EXTINF:-1 tvg-id="TyC Sports"tvg-name="TyC Sports"tvg-logo="http://181.209.79.77:9999
+/tyc.png"group-title="Deportes",TyC Sports
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-reconnect=true
 http://190.95.60.228:8500/play/a02m
